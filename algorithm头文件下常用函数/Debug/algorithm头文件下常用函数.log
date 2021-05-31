@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\visual self\algorithm头文件下常用函数\源.cpp(105,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\visual self\algorithm头文件下常用函数\源.cpp(112,20): warning C4018: “<”: 有符号/无符号不匹配
+  algorithm头文件下常用函数.vcxproj -> D:\visual self\algorithm头文件下常用函数\Debug\algorithm头文件下常用函数.exe
